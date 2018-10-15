@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss verison="2.0">
+	<channel>
+		<item>
+			<title>repository 1</title>
+			<data>http://git.com/repository1</data>
+			<source>/Users/Acterion/QML_XML_test1/git_logo.png</source>
+		</item>
+		<item>
+			<title>test repo</title>
+			<data>http://git.com/repo_test</data>
+			<source>/Users/Acterion/QML_XML_test1/git-compare.png</source>
+		</item>
+		<item>
+			<title>Wololo some more repo</title>
+			<data>http://git.com/wololo</data>
+			<source>/Users/Acterion/QML_XML_test1/git_seesaw.jpeg</source>
+		</item>
+	</channel>
+</rss>
